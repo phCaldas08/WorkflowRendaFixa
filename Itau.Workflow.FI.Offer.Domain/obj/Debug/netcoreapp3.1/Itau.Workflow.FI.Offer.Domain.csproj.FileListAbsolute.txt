@@ -1,0 +1,9 @@
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Domain/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Domain.deps.json
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Domain/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Domain.dll
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Domain/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Domain.pdb
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Domain/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Domain.csprojAssemblyReference.cache
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Domain/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Domain.AssemblyInfoInputs.cache
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Domain/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Domain.AssemblyInfo.cs
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Domain/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Domain.csproj.CoreCompileInputs.cache
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Domain/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Domain.dll
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Domain/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Domain.pdb

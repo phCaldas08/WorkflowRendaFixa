@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{1495B637-4C8A-4014-81B7-E15F61BFCB5A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Offer.Itau.Workflow.FI.Offer.Test FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Itau.Workflow.FI.Offer.API/Controllers/OfferController.cs">
+    <Files>
+      <File FileName="Itau.Workflow.FI.Offer.Core/Offer/Init/InitHandler.cs" Line="25" Column="19" IsPinned="True" />
+      <File FileName="Itau.Workflow.FI.Offer.API/Startup.cs" />
+      <File FileName="Itau.Workflow.FI.Offer.API/Program.cs" />
+      <File FileName="Itau.Workflow.FI.Offer.API/Controllers/OfferController.cs" Line="15" Column="1" />
+      <File FileName="Itau.Workflow.FI.Offer.Core/Offer/Init/Init.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Itau.Workflow.FI" expanded="True">
+            <Node name="Offer" expanded="True">
+              <Node name="Itau.Workflow.FI.Offer.API" expanded="True">
+                <Node name="Controllers" expanded="True">
+                  <Node name="OfferController.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Itau.Workflow.FI.Offer.Core" expanded="True">
+                <Node name="Offer" expanded="True">
+                  <Node name="Init" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Itau.Workflow.FI.Offer.Persistence" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Offer.Itau.Workflow.FI.Offer.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Core/Offer/Init/InitHandler.cs" relfile="Itau.Workflow.FI.Offer.Core/Offer/Init/InitHandler.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

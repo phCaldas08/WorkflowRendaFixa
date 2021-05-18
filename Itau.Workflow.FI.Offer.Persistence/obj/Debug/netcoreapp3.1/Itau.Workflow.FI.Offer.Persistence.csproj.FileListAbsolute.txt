@@ -1,0 +1,15 @@
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Persistence/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Persistence.deps.json
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Persistence/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Persistence.runtimeconfig.json
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Persistence/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Persistence.runtimeconfig.dev.json
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Persistence/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Persistence.dll
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Persistence/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Persistence.pdb
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Persistence/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Domain.dll
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Persistence/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Domain.pdb
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Persistence/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Persistence.csprojAssemblyReference.cache
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Persistence/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Persistence.AssemblyInfoInputs.cache
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Persistence/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Persistence.AssemblyInfo.cs
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Persistence/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Persistence.csproj.CoreCompileInputs.cache
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Persistence/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Persistence.csproj.CopyComplete
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Persistence/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Persistence.dll
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Persistence/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Persistence.pdb
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Persistence/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Persistence.genruntimeconfig.cache

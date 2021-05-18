@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Offer", "Offer", "{130A4111-B1C3-45B6-AD8E-5085B81110FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itau.Workflow.FI.Offer.API", "Itau.Workflow.FI.Offer.API\Itau.Workflow.FI.Offer.API.csproj", "{1495B637-4C8A-4014-81B7-E15F61BFCB5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itau.Workflow.FI.Offer.Test", "Itau.Workflow.FI.Offer.Test\Itau.Workflow.FI.Offer.Test.csproj", "{C6938691-82FF-4C23-80F7-A9DD8EB33552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itau.Workflow.FI.Offer.Core", "Itau.Workflow.FI.Offer.Core\Itau.Workflow.FI.Offer.Core.csproj", "{274F01F3-8F5C-4A2F-B4E4-617543AF6700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itau.Workflow.FI.Offer.Domain", "Itau.Workflow.FI.Offer.Domain\Itau.Workflow.FI.Offer.Domain.csproj", "{2BE6BCBA-CD39-48DD-92D0-8E39F7983CBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itau.Workflow.FI.Offer.Persistence", "Itau.Workflow.FI.Offer.Persistence\Itau.Workflow.FI.Offer.Persistence.csproj", "{BEC507AB-C515-4D57-A367-E656C0E7D3D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1495B637-4C8A-4014-81B7-E15F61BFCB5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1495B637-4C8A-4014-81B7-E15F61BFCB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1495B637-4C8A-4014-81B7-E15F61BFCB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1495B637-4C8A-4014-81B7-E15F61BFCB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6938691-82FF-4C23-80F7-A9DD8EB33552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6938691-82FF-4C23-80F7-A9DD8EB33552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6938691-82FF-4C23-80F7-A9DD8EB33552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6938691-82FF-4C23-80F7-A9DD8EB33552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274F01F3-8F5C-4A2F-B4E4-617543AF6700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274F01F3-8F5C-4A2F-B4E4-617543AF6700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274F01F3-8F5C-4A2F-B4E4-617543AF6700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274F01F3-8F5C-4A2F-B4E4-617543AF6700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE6BCBA-CD39-48DD-92D0-8E39F7983CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE6BCBA-CD39-48DD-92D0-8E39F7983CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE6BCBA-CD39-48DD-92D0-8E39F7983CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE6BCBA-CD39-48DD-92D0-8E39F7983CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC507AB-C515-4D57-A367-E656C0E7D3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC507AB-C515-4D57-A367-E656C0E7D3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC507AB-C515-4D57-A367-E656C0E7D3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC507AB-C515-4D57-A367-E656C0E7D3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CE5A403-DE2F-4E15-9B79-F884926788E1}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1495B637-4C8A-4014-81B7-E15F61BFCB5A} = {130A4111-B1C3-45B6-AD8E-5085B81110FA}
+		{C6938691-82FF-4C23-80F7-A9DD8EB33552} = {130A4111-B1C3-45B6-AD8E-5085B81110FA}
+		{274F01F3-8F5C-4A2F-B4E4-617543AF6700} = {130A4111-B1C3-45B6-AD8E-5085B81110FA}
+		{2BE6BCBA-CD39-48DD-92D0-8E39F7983CBE} = {130A4111-B1C3-45B6-AD8E-5085B81110FA}
+		{BEC507AB-C515-4D57-A367-E656C0E7D3D3} = {130A4111-B1C3-45B6-AD8E-5085B81110FA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="MediatR" Version="6.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Itau.Workflow.FI.Offer.Domain\Itau.Workflow.FI.Offer.Domain.csproj" />
+    <ProjectReference Include="..\Itau.Workflow.FI.Offer.Persistence\Itau.Workflow.FI.Offer.Persistence.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Offer\" />
+    <Folder Include="Offer\Queries\" />
+    <Folder Include="Offer\Queries\GetOfferById\" />
+    <Folder Include="Offer\Queries\ListOffers\" />
+    <Folder Include="Offer\Init\" />
+  </ItemGroup>
+</Project>

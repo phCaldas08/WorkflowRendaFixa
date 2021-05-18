@@ -1,0 +1,14 @@
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Core/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Core.deps.json
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Core/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Core.dll
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Core/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Core.pdb
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Core/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Domain.dll
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Core/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Persistence.dll
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Core/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Domain.pdb
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Core/bin/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Persistence.pdb
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Core/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Core.csprojAssemblyReference.cache
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Core/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Core.AssemblyInfoInputs.cache
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Core/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Core.AssemblyInfo.cs
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Core/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Core.csproj.CoreCompileInputs.cache
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Core/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Core.csproj.CopyComplete
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Core/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Core.dll
+/Users/phcaldas/Documents/development/dotnet/Itau.Workflow.FI/Itau.Workflow.FI.Offer.Core/obj/Debug/netcoreapp3.1/Itau.Workflow.FI.Offer.Core.pdb
